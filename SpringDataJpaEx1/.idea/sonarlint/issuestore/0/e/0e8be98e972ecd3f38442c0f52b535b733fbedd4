@@ -1,0 +1,34 @@
+
+
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ξ”Ϊy8‚¶³ρθ1J$b3d4c954-9593-40b5-a56b-6a59152438c4
+¤
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(™°όÿÿÿÿ8εΕµρθ1J$7770c987-1074-4004-a910-1aa99c121047
+
+java:S1488""\Immediately return this expression instead of assigning it to the temporary variable "list".(ρΧΠ8ΏΦ¶ρθ1J$0833e527-586b-42e3-acb8-721a75465fd8
+¤
+java:S1488)"\Immediately return this expression instead of assigning it to the temporary variable "list".(¦―ΊΗϋÿÿÿÿ8Ώ νυθ1J$af199c03-9763-4875-9ba5-5937cae08519
+¤
+java:S14880"\Immediately return this expression instead of assigning it to the temporary variable "list".(©ÿΦωÿÿÿÿ8Ώ νυθ1J$2adb7df8-2544-412f-8a9b-2cb2d5b7f236
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ιξέ‹όÿÿÿÿ8¶³ρθ1J$692bfcc2-9d31-453f-815f-f3f0d635a04e
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(κζΔή8¶³ρθ1J$a5a65c2f-e88e-431f-997d-ed7746fd370c
+v
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8¶³ρθ1J$a78dc806-ced1-45c2-99df-f3d9d017b62d
+v
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8ρΕµρθ1J$2a514b69-63f1-4b01-b9ec-101f87b99fba
+v
+java:S6837 "3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8ΕΦ¶ρθ1J$86be397f-c4c0-4f2e-ada2-950887601567
+v
+java:S6837'"3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8Ν νυθ1J$1007ac38-5b1f-4cc8-a013-c77e12c8a909
+v
+java:S6837."3Remove this superfluous "@ResponseBody" annotation.(ά¥Ό8Ν νυθ1J$ad5589a4-9b79-4282-8dec-c2e3f52f4dd2
+i
+java:S1905"'Remove this unnecessary cast to "List".(ξ”Ϊy8Ϋ‡ιυθ1J$764cecbe-afea-4934-9f5b-5168c6b21cad
+o
+java:S1905"'Remove this unnecessary cast to "List".(™°όÿÿÿÿ8ά‡ιυθ1J$6c9dbcab-ca73-4189-8375-1a285012f9cd
+j
+java:S1905""'Remove this unnecessary cast to "List".(ρΧΠ8έ‡ιυθ1J$14283e9c-a732-4172-9b28-6afd68c476d6
+o
+java:S1905)"'Remove this unnecessary cast to "List".(¦―ΊΗϋÿÿÿÿ8Τ νυθ1J$1863d794-3c62-4b30-b494-64568cb467f6
+o
+java:S19050"'Remove this unnecessary cast to "List".(©ÿΦωÿÿÿÿ8»†φυθ1J$a900e709-153a-47d2-96b8-29e64f1e099e

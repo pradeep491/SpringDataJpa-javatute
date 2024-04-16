@@ -1,0 +1,15 @@
+
+œ
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(Æÿµµ8‘…î—é1J$b9b47d0d-6a12-4aa7-b609-7b87390f88eb
+‘
+java:S3655"NCall "student.isPresent()" or "!student.isEmpty()" before accessing the value.(Æÿµµ8¸Ûˆ˜é1J$5159f58d-4ca0-4b95-80fc-4e867084ac97
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$cf587ad8-fb05-45ca-87e4-bd85632b8c15
+{
+java:S1854"8Remove this useless assignment to local variable "name".(•í—§8İˆ˜é1J$137f763d-2f05-402f-9503-a27b5a495a05
+q
+java:S1874".Remove this use of "getOne"; it is deprecated.(û—úŒ8Ş‡˜é1J$a1899bd5-1e41-4c8b-8838-925c27f1f5de
+l
+java:S1481")Remove this unused "name" local variable.(•í—§8àˆ˜é1J$fc4648fa-5e3a-4bfb-9e33-36d310d963af
+s
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Áºˆ˜é1J$9b65951a-b19e-4ae4-91d6-5ff234a23ae2

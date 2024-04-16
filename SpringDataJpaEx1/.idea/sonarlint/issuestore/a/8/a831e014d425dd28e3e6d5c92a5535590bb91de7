@@ -1,0 +1,19 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(®ÌÂ«üÿÿÿÿ8æëæõè1J$0eb87418-aa92-4987-be18-9115359b50df
+ˆ	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ô‚Ùë8æëæõè1J$761818d1-7fc3-48ef-921f-e8c8060d0ed3
+ˆ	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ô‚Ùë8æëæõè1J$2ce88a21-034d-4d56-8bc9-6fcd50809e03
+
+java:S14881"\Immediately return this expression instead of assigning it to the temporary variable "list".(‡œï/8Ì–çõè1J$77f9e8ed-88e5-4bf8-bb56-12426d35c285
+Ÿ
+java:S14887"\Immediately return this expression instead of assigning it to the temporary variable "list".(ûšËŸ8¦Ûçõè1J$271f3a29-4176-4d08-bd47-722d8b1f7b01
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä¨¨‚ùÿÿÿÿ8éëæõè1J$ad436dc8-a781-45d0-9ff1-3ae987c7cfa9
+Œ
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ó¨Î€øÿÿÿÿ8ƒìæõè1J$5f51eb83-3901-42c7-b742-df63129f498b
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8…ìæõè1J$0c75be2f-ee22-4965-9672-a3c1e64ccda7
+o
+java:S1905"'Remove this unnecessary cast to "List".(€ùå½ûÿÿÿÿ8‰ìæõè1J$b21eab51-000e-4174-a005-cc21d7637b6f
+o
+java:S1905"'Remove this unnecessary cast to "List".(‹ñëÔşÿÿÿÿ8ìæõè1J$31fdca99-3d32-4463-91d8-5ccfa9393207
+j
+java:S1905("'Remove this unnecessary cast to "List".(ı¿¸ë8ìæõè1J$7f96bb22-5688-4697-99cd-bb40cdba8159

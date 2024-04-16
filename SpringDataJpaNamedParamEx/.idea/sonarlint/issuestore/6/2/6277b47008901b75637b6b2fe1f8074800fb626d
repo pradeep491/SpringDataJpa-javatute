@@ -1,0 +1,20 @@
+
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(Á…ôğÿÿÿÿÿ8Ë„÷è1
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ñ×Ğ8Ë„÷è1
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ÖøÛùÿÿÿÿ8Ë„÷è1
+y
+java:S1488&"\Immediately return this expression instead of assigning it to the temporary variable "list".(Å›ûœ8Ë„÷è1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÎÆˆ8Ë„÷è1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8•Ë„÷è1
+I
+java:S1905"'Remove this unnecessary cast to "List".(Á…ôğÿÿÿÿÿ8—Ë„÷è1
+D
+java:S1905"'Remove this unnecessary cast to "List".(ñ×Ğ8˜Ë„÷è1
+I
+java:S1905"'Remove this unnecessary cast to "List".(ÖøÛùÿÿÿÿ8˜Ë„÷è1
+D
+java:S1905&"'Remove this unnecessary cast to "List".(Å›ûœ8™Ë„÷è1

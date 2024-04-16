@@ -1,0 +1,5 @@
+
+ 
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "count".(ñÄÍ8ª¥ì¦é1J$51477dcc-de73-4fdb-a7db-485d7831f886
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$eea24f5c-f653-46e9-b5b8-f2d35cf9269a

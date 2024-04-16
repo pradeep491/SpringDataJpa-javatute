@@ -1,0 +1,9 @@
+
+¡
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(ÿ³ãôüÿÿÿÿ8³€„®é1J$cf9c22ed-b6e5-43cc-8dbf-557a96e31f72
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¹€„®é1J$0c0ca45d-9797-4070-94f7-e635b0264460
+
+java:S1128"<Remove this unused import 'com.test.repo.StudentRepository'.(­µù†8¾€„®é1J$5566b809-1665-4298-b891-5bcd80e04336
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8¾€„®é1J$6b8edec7-efd8-460d-8bd0-5936dc4d2432

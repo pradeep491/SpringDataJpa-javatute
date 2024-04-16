@@ -1,0 +1,6 @@
+
+b	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ð‘ˆé8‡ä¡é1
+v
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(±•áÛ8ˆä¡é1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8‹ä¡é1
