@@ -17,7 +17,7 @@ public class StudentServiceImpl implements StudentService {
     @Transactional
     @Override
     public List<Student> saveAllStudents(List<Student> students) {
-        List<Student> student = (List<Student>) repo.saveAll(students);
+        List<Student> student = repo.saveAll(students);
         if (student == null) {
             throw new RuntimeException("No Students saved");
         }
@@ -27,7 +27,7 @@ public class StudentServiceImpl implements StudentService {
     @Transactional(readOnly = true)
     @Override
     public List<Student> findStudents(String name) {
-        List<Student> student = (List<Student>)repo.findStudents(name);
+        List<Student> student = repo.findStudents(name);
         if (student == null) {
             throw new RuntimeException("No Students found for the name-" + name);
         }
@@ -37,7 +37,7 @@ public class StudentServiceImpl implements StudentService {
     @Transactional(readOnly = true)
     @Override
     public List<Student> findStudentsUsingNativeQuery(String name) {
-        List<Student> student = (List<Student>)repo.findStudentsUsingNativeQuery(name);
+        List<Student> student = repo.findStudentsUsingNativeQuery(name);
         if (student == null) {
             throw new RuntimeException("No Students found for the name-" + name);
         }
@@ -46,14 +46,12 @@ public class StudentServiceImpl implements StudentService {
 
     @Override
     public List<Student> findStudentsUsingRno(String rollno) {
-        List<Student> list = (List<Student>)repo.findStudentsUsingRno(rollno);
-        return list;
+        return repo.findStudentsUsingRno(rollno);
     }
 
     @Override
     public List<Student> findStudentsUsingNativeQueryRno(String rollno) {
-        List<Student> list = (List<Student>)repo.findStudentsUsingNativeQueryRno(rollno);
-        return list;
+        return repo.findStudentsUsingNativeQueryRno(rollno);
     }
 
 }
