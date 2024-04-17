@@ -53,8 +53,8 @@ public class StudentServiceImpl implements StudentService {
     }
 
     @Override
-    public List<Student> findStudentsUsingNativeQueryRno(String rollNo) {
-        return repo.findStudentsUsingNativeQueryRno(rollNo);
+    public List<Student> findStudentsUsingNativeQueryRno(String rNo) {
+        return repo.findStudentsUsingNativeQueryRno(rNo);
     }
 
 }
