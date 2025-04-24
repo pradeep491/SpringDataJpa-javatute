@@ -45,7 +45,7 @@
         <dependency>
             <groupId>com.oracle.database.jdbc</groupId>
             <artifactId>ojdbc8</artifactId>
-            <version>19.21.0.0</version><!--$NO-MVN-MAN-VER$-->
+            <version>19.26.0.0</version><!--$NO-MVN-MAN-VER$-->
         </dependency>
     </dependencies>
 
